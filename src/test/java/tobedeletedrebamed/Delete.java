@@ -1,4 +1,4 @@
-package tobedeleted;
+package tobedeletedrebamed;
 
 public class Delete {
 
